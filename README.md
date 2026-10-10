@@ -3,7 +3,7 @@
 🚀 MERN Stack Developer specialized in React, Next.js, NestJS, and Node.js.<br/>
 💡 Passionate about building scalable web apps with clean code and great UX.<br/>
 🌱 Always learning backend architectures, performance optimization & microservices.<br/>
-📫 Let’s connect! LinkedIn( https://www.linkedin.com/in/badr-daghash-63971520a/ ) | badrdaghash6@gmail.com.<br/>
+📫 Let’s connect! LinkedIn( https://www.linkedin.com/in/badr-daghash-63971520a/ ) | badrdaghash@gmail.com.<br/>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
